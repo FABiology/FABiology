@@ -1,12 +1,10 @@
 ### Hi there!
 
-I am a doctoral student in the Programa de Pós-Graduação em Biologia Vegetal at the Universidade Federal de Pernambuco.
+I am a PhD student in the Programa de Pós-Graduação em Biologia Vegetal at the Universidade Federal de Pernambuco.
 
-I am working with macroevolutionary studies in the tribe Vernonieae (Asteraceae).
+I am working with the tribe Vernonieae (Asteraceae) applying macroevolutionary studies.
 
 I have experience with phylogenetic and biogeographic analyses.
-
-If you play guitar, I already like you.
 
 <div style="display: inline_block"><br>
   <a href="https://www.rstudio.com"><img align="center" height="50" width="150" src = "https://github.com/FABiology/FABiology/blob/master/rstudio.png" target="_blank"></a>
